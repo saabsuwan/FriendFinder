@@ -1,0 +1,16 @@
+{
+  "name": "friendfinder-master",
+  "version": "1.0.0",
+  "description": "![hw-13-logo](https://cloud.githubusercontent.com/assets/21274043/25509989/d1b4d406-2b71-11e7-9b31-88fe014878bd.png)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
